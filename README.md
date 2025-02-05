@@ -3,52 +3,52 @@
 <h3> suggested words</h3>
 <p>
   1️⃣ Essential Words (Basic Communication)
-Hello
-Yes
-No
-Please
-Thank you
-Sorry
-Help
-Stop
-Go
-Good <br/>
+Hello,
+Yes,
+No,
+Please,
+Thank you,
+Sorry,
+Help,
+Stop,
+Go,
+Good, <br/>
 2️⃣ Common Questions
-Who
-What
-When
-Where
-Why
+Who,
+What,
+When,
+Where,
+Why,
 How <br/>
 3️⃣ Action Words (Verbs)
-Eat
-Drink
-Sleep
-Read
-Write
-Walk
-Sit
-Stand
-Come
-Go <br/>
+Eat,
+Drink,
+Sleep,
+Read,
+Write,
+Walk,
+Sit,
+Stand,
+Come,
+Go, <br/>
 4️⃣ Pronouns & People
-I
-You
-He
-She
-We
-They
-Mother
-Father
-Friend
-Teacher <br/>
+I,
+You,
+He,
+She,
+We,
+They,
+Mother,
+Father,
+Friend,
+Teacher, <br/>
 5️⃣ Numbers & Time
-One, Two, Three, … Ten
-Morning
-Afternoon
-Night
-Today
-Yesterday
+One, Two, Three, … Ten,
+Morning,
+Afternoon,
+Night,
+Today,
+Yesterday,
 Tomorrow <br/>
 6️⃣ Daily Conversation Phrases
 How are you?
