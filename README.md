@@ -1,5 +1,6 @@
 <h1> Collecting the data</h1>
-<p>follow the steps in the ISL_DataCollection.ipynb to create a dataset</p>
+<p>Follow the steps in the ISL_DataCollection.ipynb to create a dataset</p>
+<p>Refer to the requirements.txt for dependencies and configure the conda environment accordingly(A ENV WITH PYTHON 3.9.21 IS MUST)</p>
 <h3> suggested words</h3>
 <p>
   1️⃣ Essential Words (Basic Communication)
