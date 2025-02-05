@@ -1,4 +1,4 @@
-<h1> Collectign the data</h1>
+<h1> Collecting the data</h1>
 <p>follow the steps in the ISL_DataCollection.ipynb to create a dataset</p>
 <h3> suggested words</h3>
 <p>
@@ -12,14 +12,14 @@ Sorry
 Help
 Stop
 Go
-Good
+Good <br/>
 2️⃣ Common Questions
 Who
 What
 When
 Where
 Why
-How
+How <br/>
 3️⃣ Action Words (Verbs)
 Eat
 Drink
@@ -30,7 +30,7 @@ Walk
 Sit
 Stand
 Come
-Go
+Go <br/>
 4️⃣ Pronouns & People
 I
 You
@@ -41,7 +41,7 @@ They
 Mother
 Father
 Friend
-Teacher
+Teacher <br/>
 5️⃣ Numbers & Time
 One, Two, Three, … Ten
 Morning
@@ -49,12 +49,12 @@ Afternoon
 Night
 Today
 Yesterday
-Tomorrow
+Tomorrow <br/>
 6️⃣ Daily Conversation Phrases
 How are you?
 What is your name?
 I am fine
 I don’t understand
 I need help
-See you later
+See you later <br/>
 </p>
